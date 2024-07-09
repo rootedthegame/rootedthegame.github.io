@@ -1,0 +1,680 @@
+Uri: https://cdn.embedly.com/widgets/platform.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\widgets\platform.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\ajax\libs\popper.js\1.14.7\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.3.1.slim.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\jquery-3.3.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Exo+2:wght@100;400;600&display=swap
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/exo2/v21/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+File Name: C:\Downloaded Web Sites\rootedthegame.com\s\exo2\v21\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvKcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v21/7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPg.ttf
+File Name: C:\Downloaded Web Sites\rootedthegame.com\s\exo2\v21\7cH1v4okm5zmbvwkAx_sfcEuiD8jvvOcPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo2/v21/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+File Name: C:\Downloaded Web Sites\rootedthegame.com\s\exo2\v21\7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWcPg.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/5c93c6655e.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\5c93c6655e.js
+Content Type: text/javascript
+
+Uri: https://rootedthegame.com/
+File Name: C:\Downloaded Web Sites\rootedthegame.com\index.htm
+Content Type: text/html
+
+Uri: https://rootedthegame.com/build/assets/app.b39cc9c1.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\build\assets\app.b39cc9c1.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/build/assets/app.d7b06d3a.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\build\assets\app.d7b06d3a.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/css/all.min.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\all.min.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/css/animate.min.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\animate.min.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/css/splitting.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\splitting.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/css/style-responsive.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\style-responsive.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/css/style.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\style.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/css/vertical-rhythm.min.css
+File Name: C:\Downloaded Web Sites\rootedthegame.com\css\vertical-rhythm.min.css
+Content Type: text/css
+
+Uri: https://rootedthegame.com/discord
+File Name: C:\Downloaded Web Sites\rootedthegame.com\discord.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/faq
+File Name: C:\Downloaded Web Sites\rootedthegame.com\faq.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/forgot-password
+File Name: C:\Downloaded Web Sites\rootedthegame.com\forgot-password.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/jobs
+File Name: C:\Downloaded Web Sites\rootedthegame.com\jobs.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/join-alpha
+File Name: C:\Downloaded Web Sites\rootedthegame.com\join-alpha.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/js/all.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\all.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.easing.1.3.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.fitvids.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.lazyload.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.localScroll.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.localScroll.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.parallax-1.1.3.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.parallax-1.1.3.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.scrollTo.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.scrollTo.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/jquery.viewport.mini.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\jquery.viewport.mini.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/masonry.pkgd.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\masonry.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/SmoothScroll.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/typed.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\typed.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/js/wow.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://rootedthegame.com/legal-notice
+File Name: C:\Downloaded Web Sites\rootedthegame.com\legal-notice.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/login
+File Name: C:\Downloaded Web Sites\rootedthegame.com\login.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/1st-alpha-session-exploration-and-survival-monastery
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\1st-alpha-session-exploration-and-survival-monastery.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/30k-wishlists-on-Steam
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\30k-wishlists-on-Steam.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/80k-wishlists-development-progress-and-more
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\80k-wishlists-development-progress-and-more.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/alpha-roadmap-for-rooted-is-now-live
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\alpha-roadmap-for-rooted-is-now-live.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/closed-Alpha-Trailer-Kickstarter-pre-launch-and-130K-wishlists!
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\closed-Alpha-Trailer-Kickstarter-pre-launch-and-130K-wishlists!.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/Discover-our-trailer
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\Discover-our-trailer.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/everything-you-need-to-know-before-launching-the-first-alpha
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\everything-you-need-to-know-before-launching-the-first-alpha.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/halloween-apocalypse-rooted-time-loop-event-20-years-back
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\halloween-apocalypse-rooted-time-loop-event-20-years-back.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/join-us-on-discord
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\join-us-on-discord.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/Latest-Updates-from-Rooted
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\Latest-Updates-from-Rooted.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/our-discord-bot-has-been-updated
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\our-discord-bot-has-been-updated.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/our-progress-and-alpha-sessions
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\our-progress-and-alpha-sessions.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/Our-road-map-and-pvp-news
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\Our-road-map-and-pvp-news.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/qa-rooted-community-january-2024
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\qa-rooted-community-january-2024.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/register-now-for-alpha-sessions-coming-in-2023
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\register-now-for-alpha-sessions-coming-in-2023.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/rooted-200-funded-mocap-animations
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\rooted-200-funded-mocap-animations.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/rooted-alpha-release-date-developer-insight-music
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\rooted-alpha-release-date-developer-insight-music.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/rooted-available-on-epic-games-store
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\rooted-available-on-epic-games-store.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/rooted-open-world-technical-overview
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\rooted-open-world-technical-overview.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/Rooted-s-Kickstarter-is-launched
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\Rooted-s-Kickstarter-is-launched.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/stay-safe-from-scam-websites-rooted-community
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\stay-safe-from-scam-websites-rooted-community.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/news/the-closed-alpha-is-live
+File Name: C:\Downloaded Web Sites\rootedthegame.com\news\the-closed-alpha-is-live.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/pledge
+File Name: C:\Downloaded Web Sites\rootedthegame.com\pledge.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/policy
+File Name: C:\Downloaded Web Sites\rootedthegame.com\policy.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/register
+File Name: C:\Downloaded Web Sites\rootedthegame.com\register.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/storage/30k-wishlists.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\30k-wishlists.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/6feet.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\6feet.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/80k-wishlists-development-progress-and-more.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\80k-wishlists-development-progress-and-more.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/a.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\a.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/alert-stay-safe-from-scam-websites-rooted-community.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\alert-stay-safe-from-scam-websites-rooted-community.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/alpha-channels.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\alpha-channels.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/alpha-roadmap-for-rooted-is-now-live.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\alpha-roadmap-for-rooted-is-now-live.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/AnimolsSteam.mp4
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\AnimolsSteam.mp4
+Content Type: video/mp4
+
+Uri: https://rootedthegame.com/storage/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/bactria-rooted.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\bactria-rooted.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/banner_registernow.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\banner_registernow.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/be_part_of_the_alpha.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\be_part_of_the_alpha.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/bg_rewards.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\bg_rewards.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/bones-studio.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\bones-studio.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/closed_alpha.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\closed_alpha.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/crouch.gif
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\crouch.gif
+Content Type: image/gif
+
+Uri: https://rootedthegame.com/storage/discord-rooted-banner.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\discord-rooted-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/discover-trailer.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\discover-trailer.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/Epic_games_store_logo.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Epic_games_store_logo.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/everything-you-need-to-know-before-launching-the-first-alpha.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\everything-you-need-to-know-before-launching-the-first-alpha.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/explore-rooted-phase-2.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\explore-rooted-phase-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/follow_our_progress.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\follow_our_progress.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/gameplay_footage.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\gameplay_footage.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/halloween-apocalypse-rooted-time-loop-event-20-years-back.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\halloween-apocalypse-rooted-time-loop-event-20-years-back.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/halloween-axe.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\halloween-axe.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/halloween-mask-01.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\halloween-mask-01.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/halloween-mask-02.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\halloween-mask-02.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/halloween-mask-03.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\halloween-mask-03.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/HoomansSteam.mp4
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\HoomansSteam.mp4
+Content Type: video/mp4
+
+Uri: https://rootedthegame.com/storage/infiltration.gif
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\infiltration.gif
+Content Type: image/gif
+
+Uri: https://rootedthegame.com/storage/island-rooted.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\island-rooted.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/kickstarter-homepage-rooted.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\kickstarter-homepage-rooted.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/kickstarter.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\kickstarter.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/logoRooted.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\logoRooted.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/logo_UE.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\logo_UE.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/lootbox-halloween-rooted.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\lootbox-halloween-rooted.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/metro-rooted.gif
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\metro-rooted.gif
+Content Type: image/gif
+
+Uri: https://rootedthegame.com/storage/monastery_blockout_rooted.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\monastery_blockout_rooted.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/monastery_church_rooted.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\monastery_church_rooted.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/multiplayer.mp4
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\multiplayer.mp4
+Content Type: video/mp4
+
+Uri: https://rootedthegame.com/storage/our-discord-bot-has-been-updated.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\our-discord-bot-has-been-updated.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/our-progress.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\our-progress.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/pie-menu-emotes.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\pie-menu-emotes.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/rewards.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rewards.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/roadmap.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\roadmap.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/RobotsSteam.mp4
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\RobotsSteam.mp4
+Content Type: video/mp4
+
+Uri: https://rootedthegame.com/storage/rooted-1.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-1.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-2.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-2.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-3.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-3.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-4.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-4.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-5.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-5.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-alpha-launch-date-and-must-see-video.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-alpha-launch-date-and-must-see-video.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-available-on-epic-games-store.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-available-on-epic-games-store.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-discord.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-discord.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/rooted-exploration.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-exploration.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-from-players.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-from-players.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/Rooted-Halloween-inventory.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Rooted-Halloween-inventory.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/Rooted-Holomap.gif
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Rooted-Holomap.gif
+Content Type: image/gif
+
+Uri: https://rootedthegame.com/storage/rooted-logo-550.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-logo-550.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/Rooted-MaterialsId.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Rooted-MaterialsId.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-news.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-news.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/rooted-office.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-office.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/Rooted-PCG.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Rooted-PCG.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/Rooted-Props.gif
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Rooted-Props.gif
+Content Type: image/gif
+
+Uri: https://rootedthegame.com/storage/rooted-watch.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\rooted-watch.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/Rooted-WP.gif
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Rooted-WP.gif
+Content Type: image/gif
+
+Uri: https://rootedthegame.com/storage/salvage-680.mp4
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\salvage-680.mp4
+Content Type: video/mp4
+
+Uri: https://rootedthegame.com/storage/salvage-guitar.mp4
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\salvage-guitar.mp4
+Content Type: video/mp4
+
+Uri: https://rootedthegame.com/storage/Steam-logo-white.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\Steam-logo-white.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/steam-logo.png
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\steam-logo.png
+Content Type: image/png
+
+Uri: https://rootedthegame.com/storage/the-closed-alpha-is-live.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\the-closed-alpha-is-live.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/time-mocap-banner.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\time-mocap-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/timeline-rooted-alpha.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\timeline-rooted-alpha.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/tutoDiscord.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\tutoDiscord.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/window.gif
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\window.gif
+Content Type: image/gif
+
+Uri: https://rootedthegame.com/storage/wooden-cabin.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\wooden-cabin.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/storage/xsens_rooted.jpg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\storage\xsens_rooted.jpg
+Content Type: image/jpeg
+
+Uri: https://rootedthegame.com/timeline
+File Name: C:\Downloaded Web Sites\rootedthegame.com\timeline.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/tos
+File Name: C:\Downloaded Web Sites\rootedthegame.com\tos.html
+Content Type: text/html
+
+Uri: https://rootedthegame.com/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rootedthegame.com/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rootedthegame.com/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://rootedthegame.com/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://rootedthegame.com/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://rootedthegame.com/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://rootedthegame.com/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rootedthegame.com/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rootedthegame.com/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://rootedthegame.com/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://rootedthegame.com/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://rootedthegame.com/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://rootedthegame.com/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rootedthegame.com/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rootedthegame.com/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://rootedthegame.com/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://rootedthegame.com/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://rootedthegame.com/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\rootedthegame.com\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\rootedthegame.com\bootstrap\4.3.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-24QHV7GN6H
+File Name: C:\Downloaded Web Sites\rootedthegame.com\gtag\js
+Content Type: application/javascript
+
